@@ -1,14 +1,14 @@
 ![cover](https://user-images.githubusercontent.com/68210482/195659781-415537ab-18d6-42b6-a8b3-d6d9bd455aef.png)
 ### Hey There,
 I am Chetan (TCR) Sapkal, an aspiring software engineer, creative coder and self-proclaimed designer who specializes in front-end development.
-Designing elegant experiences beyond just putting pixels together.
+I design elegant experiences beyond just putting pixels together.
 
 <!-- Wanna Know more about me visit my portfolio -->
 
 
 ### Something
 - 🔭 I’m currently working on [My Personal Blog Site](https://tcrdev.me)
-- ✨ Mini Project [**CSS Shadow Generator**](https://github.com/ceotcr/css-shadow-generator)
+- ✨ Previous Mini Project - [**CSS Shadow Generator**](https://github.com/ceotcr/css-shadow-generator)
 - 🌱 Learning **Full Stack Development**
 - 👯 Looking forward to collaborate on **Open Source Projects**
 - ⚡ Executive Member at **Developer Student Club SCOE** under Web Development Domain
