@@ -9,7 +9,7 @@ I design elegant experiences beyond just putting pixels together.
 ### Something
 - 🔭 I’m currently working on Multiple Mini Projects For My Resume
 - ✨ Previous Mini Project - [**CSS Shadow Generator**](https://github.com/ceotcr/css-shadow-generator)
-- 🌱 Learning **Full Stack Development**
+- 🌱 Learning **Back End Development**
 - 💼 Working As Web x UI Designer at Aniworks
 - 👯 Looking forward to collaborate on **Open Source Projects**
 - ⚡ Executive Member at **Developer Student Club SCOE** under Web Development Domain
