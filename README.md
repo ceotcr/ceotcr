@@ -1,23 +1,23 @@
 ![cover](https://user-images.githubusercontent.com/68210482/195659781-415537ab-18d6-42b6-a8b3-d6d9bd455aef.png)
 ### Hey There,
-I am Chetan (TCR) Sapkal, an aspiring software engineer, creative coder and self-proclaimed designer who specializes in front-end development.
-I design elegant experiences beyond just putting pixels together.
+I am Chetan (TCR) Sapkal, a software engineer, creative coder and self-proclaimed designer who specializes in front-end development.
+Designing elegant experiences beyond just putting pixels together.
 
 <!-- Wanna Know more about me visit my portfolio -->
 
 
 ### Something
 - 🔭 I’m currently working on Multiple Mini Projects For My Resume
-- ✨ Previous Mini Project - [**CSS Shadow Generator**](https://github.com/ceotcr/css-shadow-generator)
-- 🌱 Learning **Back End Development**
+- ✨ Previous Mini Project - [**TLRMS - BACKEND**](https://github.com/ceotcr/TLRMS)
+- 🌱 Learning **Full Stack Development**
 - 💼 Working As Web x UI Designer at Aniworks
 - 👯 Looking forward to collaborate on **Open Source Projects**
-- ⚡ Executive Member at **Developer Student Club SCOE** under Web Development Domain
+- ⚡Web Development Lead at **Google Developer Students' Club SCOE**
 
 ### Featured - 
 
 <a href="https://github.com/ceotcr/css-shadow-generator">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ceotcr&repo=css-shadow-generator&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ceotcr&repo=TLRMS&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 
