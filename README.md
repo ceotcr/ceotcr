@@ -1,4 +1,5 @@
-![cover](https://github.com/user-attachments/assets/389d6e5c-528b-49e5-9c81-4582dd69d134)
+![cover](https://github.com/user-attachments/assets/4ab1d3ac-b6e1-4be4-aa7c-eb4097d19675)
+
 <h2 align="center">🏴‍☠️ TCR – Fullstack Pirate Sailing the Seas of Code</h2>
 
 ###
