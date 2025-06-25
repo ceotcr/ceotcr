@@ -1,6 +1,6 @@
 ![cover](https://github.com/user-attachments/assets/4ab1d3ac-b6e1-4be4-aa7c-eb4097d19675)
 
-<h2 align="center">🏴‍☠️ TCR – Fullstack Pirate Sailing the Seas of Code</h2>
+<h2 align="center">🏴‍☠️ Chetan Sapkal – Fullstack Pirate Sailing the Seas of Code</h2>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I’m TCR – a full stack developer navigating the Grand Line of Web Dev, chasing the legendary treasure: The One App.<br>Armed with JavaScript, TypeScript, and a Straw Hat full of passion, I build digital adventures worthy of an anime opening.</p>
+<p align="left">I’m Chetan Sapkal – a full stack developer navigating the Grand Line of Web Dev, chasing the legendary treasure: The One App.<br>Armed with JavaScript, TypeScript, and a Straw Hat full of passion, I build digital adventures worthy of an anime opening.</p>
 
 ###
 
