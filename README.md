@@ -66,7 +66,7 @@
 
 ###
 
-<h3 align="left">🌀 Devil Fruit Abilities</h3>
+<h3 align="left">🌀 Competencies</h3>
 
 ###
 
