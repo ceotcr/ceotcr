@@ -8,11 +8,11 @@
 
 ###
 
-<p align="left">I’m Chetan Sapkal – a full stack developer navigating the Grand Line of Web Dev, chasing the legendary treasure: The One App.<br>Armed with JavaScript, TypeScript, and a Straw Hat full of passion, I build digital adventures worthy of an anime opening.</p>
+<p align="left">I’m Chetan Sapkal – a full stack developer with over 2.5 Years of practical experience specializing in TypeScript/JavaScript based software development, I build digital adventures worthy of an anime opening.</p>
 
 ###
 
-<h3 align="left">Crafting UIs sharper than Zoro’s swords.</h3>
+<h3 align="left">Crafting Sharpest UIs.</h3>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h3 align="left">My APIs pack more punch than a Gomu Gomu no Pistol.</h3>
+<h3 align="left">Developing Strongest APIs.</h3>
 
 ###
 
@@ -48,7 +48,7 @@
 
 ###
 
-<h3 align="left">Charting data seas like Nami with a map.</h3>
+<h3 align="left">The Sea of Data</h3>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<p align="left">Fast Learner: I eat new tech stacks for breakfast (no side effects... usually).<br>Creative Problem Solver: Even in a storm, I find a way forward.<br>Adaptable: Whether it’s a new crew or codebase, I fit right in.</p>
+<p align="left">Fast Learner: I eat new tech stacks for breakfast (no side effects... usually).<br>Creative Problem Solver: Even in a storm, I find a way forward.<br>Adaptable: Whether it’s a new team or codebase, I fit right in.</p>
 
 ###
 
